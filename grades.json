@@ -35,6 +35,19 @@
                     "earned": 0
                 }
             }
+        }, 
+        "midterm4": {
+            "note": "", 
+            "hash": "c17258603a478d1231b7cbce3c7ac767a65c6bb8", 
+            "earned": 1, 
+            "possible": 27, 
+            "penalty": 0, 
+            "parts": {
+                "midterm4": {
+                    "possible": 30, 
+                    "earned": 1
+                }
+            }
         }
     }
 }
